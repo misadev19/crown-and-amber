@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "HOME",
+    "products": "PRODUCTS",
+    "story": "OUR STORY"
+  },
+
+  "ranking": {
+    "title": "BEST SELLERS"
+  },
+
+  "ourStory": {
+    "intro": "Where timeless elegance meets the art of tea.",
+    "text": "Inspired by the refined beauty of Victorian England, CROWN & AMBER brings together carefully selected teas and timeless craftsmanship. Each cup invites you to slow down, savour the moment, and discover the quiet beauty of tradition.",
+
+    "imageAlt": "A traditional afternoon tea"
+  },
+
+  "collection": {
+    "title": "OUR COLLECTION",
+    "btn": "VIEW ALL PRODUCTS"
+  },
+
+  "productDetail": {
+    "addToCart": "ADD TO CART"
+  },
+
+  "cart": {
+    "title": "CART",
+    "emptyMessage": "YOUR CART IS EMPTY",
+    "continueBtn": "CONTINUE SHOPPING",
+    "removeBtn": "REMOVE",
+    "checkoutBtn": "PROCEED TO CHECKOUT",
+    "subtotal": "SUBTOTAL",
+    "total": "TOTAL",
+    "alert": "This is a demo site.\nCheckout is not available."
+  },
+
+  "footer": {
+    "disclaimer": "This website is a fictional demo site created for portfolio purposes. It is not affiliated with any real company or organization."
+  },
+
+  "about": {
+    "heading": {
+      "label": "OUR STORY",
+      "title": "OUR STORY",
+      "intro": "A timeless tradition, steeped in every cup."
+    },
+
+    "beginning": {
+      "label": "OUR BEGINNING",
+      "title": "Born from a love of tea",
+      "text": "CROWN & AMBER was inspired by the quiet elegance of Victorian England and the timeless ritual of afternoon tea.",
+      "imageAlt": "A traditional tea room"
+    },
+
+    "philosophy": {
+      "label": "OUR PHILOSOPHY",
+      "title": "Elegance in every detail",
+      "text": "We believe that true luxury is found in the details. From carefully selected tea leaves to the way each blend is crafted, we value quality, balance, and timeless beauty. Our teas are made to be enjoyed slowly, without hurry, and shared with those who matter.",
+      "imageAlt": "Tea leaves and traditional tea making"
+    },
+
+    "tea": {
+      "label": "OUR TEA",
+      "title": "Selected with care",
+      "text": "Each CROWN & AMBER blend is thoughtfully selected for its character, aroma, and delicate balance. Our collection brings a little beauty to the everyday ritual of tea."
+    }
+  },
+  "products": {
+    "earl-grey": {
+      "description": "A refined classic tea with the bright, elegant aroma of bergamot. Clean and refreshing, it is a graceful choice for a quiet afternoon."
+    },
+    "rose-tea": {
+      "description": "A delicate tea infused with the graceful aroma of rose. Soft and elegant, it brings a touch of romance to an afternoon tea."
+    },
+    "afternoon-tea": {
+      "description": "A light and balanced blend created for leisurely afternoons. Its gentle character pairs beautifully with pastries and delicate sweets."
+    },
+    "english-breakfast": {
+      "description": "A traditional blend with a rich, full-bodied character. Enjoy it beautifully with or without milk, and make it a comforting start to the day."
+    },
+    "darjeeling": {
+      "description": "Delicate and aromatic, with a graceful touch of astringency. Its clean finish makes it a tea to savour slowly and quietly."
+    },
+    "royal-blend": {
+      "description": "A distinguished blend with rich depth and a warm, elegant aroma. Perfect for an unhurried tea moment as the evening draws near."
+    }
+  }
+}
