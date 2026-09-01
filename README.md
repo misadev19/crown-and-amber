@@ -26,7 +26,7 @@ Inspired by classic tea culture, the website features a timeless and elegant des
 ## Tech Stack
 
 - React
-- JavaScript
+- TypeScript
 - HTML
 - CSS
 - Vite

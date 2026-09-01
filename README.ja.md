@@ -28,7 +28,7 @@
 ## 使用技術
 
 - React
-- JavaScript
+- TypeScript
 - HTML
 - CSS
 - Vite
