@@ -4,7 +4,7 @@ A fictional tea brand e-commerce website created as a portfolio project.
 
 Inspired by classic tea culture, the website features a timeless and elegant design with carefully crafted typography, rich colors, and a simple shopping experience.
 
-[🇯🇵 日本語版はこちら](./README.ja.md)
+[日本語版はこちら](./README.ja.md)
 
 ## Live Demo
 
