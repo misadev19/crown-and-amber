@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 
-const heroImages = [
-  "/images/hero/hero-01.jpg",
-  "/images/hero/hero-02.jpg",
-  "/images/hero/hero-03.jpg",
-  "/images/hero/hero-04.jpg",
-];
+import hero01 from "../assets/hero/hero-01.jpg";
+import hero02 from "../assets/hero/hero-02.jpg";
+import hero03 from "../assets/hero/hero-03.jpg";
+import hero04 from "../assets/hero/hero-04.jpg";
+
+const heroImages = [hero01, hero02, hero03, hero04];
 
 function Hero() {
   const [currentImage, setCurrentImage] = useState(0);

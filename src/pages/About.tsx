@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import aboutPhilosophyImage from "../assets/story/about-philosophy.jpg";
 
 function About() {
   const { t } = useTranslation();
@@ -20,7 +21,7 @@ function About() {
       <section className="about-philosophy">
         <div className="about-philosophy-image">
           <img
-            src="/images/story/about-philosophy.jpg"
+            src={aboutPhilosophyImage}
             alt={t("about.philosophy.imageAlt")}
           />
         </div>

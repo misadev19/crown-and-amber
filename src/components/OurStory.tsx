@@ -1,5 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
+import ourStoryImage from "../assets/story/our-story.jpg";
 
 function OurStory() {
   const { t } = useTranslation();
@@ -7,10 +8,7 @@ function OurStory() {
   return (
     <section className="our-story">
       <div className="our-story-image">
-        <img
-          src="/images/story/our-story.jpg"
-          alt="A traditional afternoon tea"
-        />
+        <img src={ourStoryImage} alt="A traditional afternoon tea" />
       </div>
 
       <div className="our-story-content">

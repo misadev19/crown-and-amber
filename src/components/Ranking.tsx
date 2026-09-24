@@ -2,22 +2,25 @@ import { Link } from "react-router-dom";
 import products from "../data/products";
 import { useTranslation } from "react-i18next";
 import { useCart } from "../contexts/CartContext";
+import crownGold from "../assets/icons/crown-gold.svg";
+import crownSilver from "../assets/icons/crown-silver.svg";
+import crownBronze from "../assets/icons/crown-bronze.svg";
 
 const rankingProducts = [
   {
     productId: "earl-grey",
     rank: 1,
-    crown: "/icons/crown-gold.svg",
+    crown: crownGold,
   },
   {
     productId: "rose-tea",
     rank: 2,
-    crown: "/icons/crown-silver.svg",
+    crown: crownSilver,
   },
   {
     productId: "afternoon-tea",
     rank: 3,
-    crown: "/icons/crown-bronze.svg",
+    crown: crownBronze,
   },
 ];
 
